@@ -14,3 +14,5 @@ Myclass(860,86).mymethod1()
 print(Myclass(34,56).a)
 print(objects.a)
 print(objects.b)
+print("hello")
+
